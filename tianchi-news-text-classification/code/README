@@ -1,2 +1,3 @@
-BaseLine：TFIDF + LightGBM
-脸书的Fasttext
+two methods:
+1. TFIDF + LightGBM
+2. 脸书的Fasttext
