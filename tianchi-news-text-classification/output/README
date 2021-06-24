@@ -1,1 +1,2 @@
 score of fasttext: 0.9204
+score of tfidf+lgb: 0.9297
