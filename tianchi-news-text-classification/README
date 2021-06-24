@@ -2,3 +2,5 @@
 赛题数据由以下几个部分构成：训练集20w条样本，测试集A包括5w条样本，测试集B包括5w条样本。
 
 link:https://tianchi.aliyun.com/competition/entrance/531810/introduction
+
+推荐的解决方案(有条件的可以试试,原代码发布者跑BERT花了8小时):https://github.com/kangyishuai/NEWS-TEXT-CLASSIFICATION 这个也是正式赛的第一名
